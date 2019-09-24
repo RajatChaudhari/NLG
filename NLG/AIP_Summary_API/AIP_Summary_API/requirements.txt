@@ -1,0 +1,7 @@
+Flask==1.0.3
+numpy<1.17,>=1.14.5
+pandas
+requests
+tensorflow
+Keras==2.2.4
+language_check

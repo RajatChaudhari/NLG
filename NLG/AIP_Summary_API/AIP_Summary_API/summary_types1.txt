@@ -1,0 +1,64 @@
+start of summary The above graph shows sales history and sales forecast for product PROD_ID at LOC_ID. The sales history is taken into consideration is between SALES_HISTORY_SDATE and SALES_HISTORY_EDATE. As we can see in the graph it attained its peak of PEAK_VAL which was recorded at PEAK_DATE and recorded lowest sales of MINVAL at MINDATE. The average sales during this period was AVG_SALES. The year wise mean for years HIST_START_YEAR to HIST_END_YEAR are YEALRY_AVG and the yearly trend for year HIST_START_YEAR to HIST_END_YEAR are HIST_TREND.
+The Finalized planner forecast predicts the future trend for period PFS_YEAR to PFE_YEAR, it predicts the maximum sales of PMAX_SALES on PMAX_DATE and lowest sales recording PMIN_SALES at PMIN_DATE. The finalized planner forecast predicts an average sales of FP_AVG for this period. For Finalized planner forecast the year wise mean is FPF_YEARLY_AVG and the yearly trend is FPS_TREND. Similarly, the corrected forecast for this period predicts the maximum sales of CFS_MAX on CFS_MAX_DATE and lowest sales recording CFS_MIN at CFS_MIN_DATE. 
+The corrected forecast predicts an average sales of CF_AVG for this period. The Corrected forecast year wise mean for years CF_START_YEAR to CF_END_YEAR are CF_YEARLY_AVG and the yearly trend is CF_TREND.
+As for Optimized forecast, it predicts the maximum sales of OFS_MAX on OFS_MAX_DATE and lowest sales recording OFS_MIN at OFS_MIN_DATE, the Optimized forecast for this period predicts an average sales of OF_AVG. The Optimized forecast year wise mean for years OF_START_YEAR to OP_END_YEAR are OF_YEARLY_AVG and the yearly trend is OF_TREND end of summary.
+
+
+start of summary The graph shows historical and forecasted sales data for the product PROD_ID for the LOC_ID. The historical data spans between SALES_HISTORY_SDATE and SALES_HISTORY_EDATE. The year wise average for the historical data is YEALRY_AVG and the yearly trend is HIST_TREND.
+The Finalized planner forecast predicts for the period PFS_YEAR to PFE_YEAR. It predicts highest sales of PMAX_SALES on PMAX_DATE and lowest sales of PMIN_SALES at PMIN_DATE. It shows year wise mean for years FP_START_YEAR to FP_END_YEAR is FPF_YEARLY_AVG and yearly trend for the same period is FPS_TREND. 
+The same way corrected forecast for this period predicts the peak sales of CFS_MAX at CFS_MAX_DATE and minimum sales recording CFS_MIN on CFS_MIN_DATE. For the Corrected forecast year wise mean for years CF_START_YEAR to CF_END_YEAR is CF_YEARLY_AVG and the yearly trend is CF_TREND. The corrected forecast predicts an average sales of CF_AVG for the same period.
+For Optimized forecast, maximum sales are predicted at OFS_MAX_DATE and minimum sales at OFS_MIN_DATE. 
+The year wise mean of Optimized forecast for years OF_START_YEAR to OP_END_YEAR is OF_YEARLY_AVG and the yearly trend for year OF_START_YEAR to OP_END_YEAR are OF_TREND.
+The Optimized forecast for this period predicts an average sales of OF_AVG end of summary.
+
+
+start of summary The above line graph represents sales history and sales forecast for product PROD_ID for the LOC_ID. The sales history is from SALES_HISTORY_SDATE to SALES_HISTORY_EDATE. 
+It shows it reached its peak of PEAK_VAL which was recorded at PEAK_DATE and recorded lowest sales of MINVAL at MINDATE. The average historical sales during this period was AVG_SALES. The year wise mean for years HIST_START_YEAR to HIST_END_YEAR are YEALRY_AVG and the yearly trend is HIST_TREND.
+The Finalized planner forecast predicts the future sales for period PFS_YEAR to PFE_YEAR, it predicts the peak sales of PMAX_SALES on PMAX_DATE and minimum sales recording PMIN_SALES on PMIN_DATE. The finalized planner forecast predicts an average sales of FP_AVG for this period. For Finalized planner forecast the year wise mean is FPF_YEARLY_AVG and the yearly trend for year for the same period is FPS_TREND.
+The corrected forecast for this period predicts the maximum sales of CFS_MAX at CFS_MAX_DATE and lowest sales recording CFS_MIN on CFS_MIN_DATE. The corrected forecast predicts an average sales of CF_AVG for this period.
+The Corrected forecast year wise mean for years CF_START_YEAR to CF_END_YEAR are CF_YEARLY_AVG and the yearly trend for this period is CF_TREND.
+On the same line, Optimized forecast predicts the maximum sales of OFS_MAX on OFS_MAX_DATE and lowest sales recording OFS_MIN at OFS_MIN_DATE, the Optimized forecast for this period predicts an average sales of OF_AVG.
+The Optimized forecast year wise mean for this period is OF_YEARLY_AVG and the yearly trend for year OF_START_YEAR to OP_END_YEAR is OF_TREND end of summary.
+
+
+start of summary The line graph shows historical and forecasted sales data for the product PROD_ID at LOC_ID. The historical data spans from SALES_HISTORY_SDATE to SALES_HISTORY_EDATE. The year wise mean for the historical data is YEALRY_AVG and the yearly trend for the same period is HIST_TREND.
+The Finalized planner forecast predicts for the period PFS_YEAR to PFE_YEAR. It predicts highest sales of PMAX_SALES on PMAX_DATE and lowest sales of PMIN_SALES on PMIN_DATE. It shows year wise average as FPF_YEARLY_AVG and yearly trend as FPS_TREND for the same period. 
+The corrected forecast for this period predicts the peak sales of CFS_MAX at CFS_MAX_DATE and minimum sales recording CFS_MIN on CFS_MIN_DATE. For the Corrected forecast year wise mean for years CF_START_YEAR to CF_END_YEAR is CF_YEARLY_AVG and the yearly trend is CF_TREND. The corrected forecast predicts an average sales of CF_AVG for the same period.
+Similarly for Optimized forecast, maximum sales are predicted on OFS_MAX_DATE and minimum sales on OFS_MIN_DATE. 
+The year wise average of Optimized forecast for years OF_START_YEAR to OP_END_YEAR is OF_YEARLY_AVG and the yearly trend is OF_TREND. It predicts an average sales of OF_AVG end of summary.
+
+
+start of summary The above graph depicts sales history and sales forecast for product PROD_ID at LOC_ID. The sales history is taken into consideration is between SALES_HISTORY_SDATE and SALES_HISTORY_EDATE. As we can see in the graph it attained its peak of PEAK_VAL which was recorded at PEAK_DATE and recorded lowest sales of MINVAL at MINDATE. The average sales during this period was AVG_SALES. The year wise mean for years HIST_START_YEAR to HIST_END_YEAR are YEALRY_AVG and the yearly trend is HIST_TREND.
+The Finalized planner forecast predicts the sales for upcoming period PFS_YEAR to PFE_YEAR, it predicts the maximum sales of PMAX_SALES on PMAX_DATE and lowest sales recording PMIN_SALES at PMIN_DATE. The finalized planner forecast predicts an average sales of FP_AVG for this period. For Finalized planner forecast the year wise mean for years FP_START_YEAR to FP_END_YEAR are FPF_YEARLY_AVG and the yearly trend is FPS_TREND.
+In similar fashion, the corrected forecast for this period predicts the maximum sales of CFS_MAX on CFS_MAX_DATE and lowest sales recording CFS_MIN at CFS_MIN_DATE. The corrected forecast predicts an average sales of CF_AVG for this period. The Corrected forecast year wise mean for years CF_START_YEAR to CF_END_YEAR are CF_YEARLY_AVG and the yearly trend is CF_TREND.
+As for Optimized forecast, it predicts the maximum sales of OFS_MAX on OFS_MAX_DATE and lowest sales recording OFS_MIN at OFS_MIN_DATE, the Optimized forecast for this period predicts an average sales of OF_AVG. The Optimized forecast year wise mean is OF_YEARLY_AVG and the yearly trend is OF_TREND end of summary.
+
+
+start of summary The above graph represents historical and forecasted sales data for the product PROD_ID for the LOC_ID. The historical sales data stretch from SALES_HISTORY_SDATE to SALES_HISTORY_EDATE. The year wise average for the historical data is YEALRY_AVG and the yearly trend is HIST_TREND.
+The Finalized planner forecast predicts for the period PFS_YEAR to PFE_YEAR. It predicts highest sales of PMAX_SALES on PMAX_DATE and lowest sales of PMIN_SALES at PMIN_DATE. It shows year wise mean for years FP_START_YEAR to FP_END_YEAR is FPF_YEARLY_AVG and yearly trend for the same period is FPS_TREND. 
+The same way corrected forecast for this period predicts the peak sales of CFS_MAX at CFS_MAX_DATE and minimum sales recording CFS_MIN on CFS_MIN_DATE. For the Corrected forecast year wise mean for years CF_START_YEAR to CF_END_YEAR is CF_YEARLY_AVG and the yearly trend is CF_TREND. The corrected forecast predicts an average sales of CF_AVG for the same period.
+For Optimized forecast, maximum sales are predicted at OFS_MAX_DATE and minimum sales at OFS_MIN_DATE. 
+The year wise mean of Optimized forecast for years OF_START_YEAR to OP_END_YEAR is OF_YEARLY_AVG and the yearly trend for year OF_START_YEAR to OP_END_YEAR are OF_TREND.
+The Optimized forecast for this period predicts an average sales of OF_AVG end of summary.
+
+
+start of summary The above line graph depicts sales history and sales forecast for product PROD_ID for the LOC_ID. The sales history is from SALES_HISTORY_SDATE to SALES_HISTORY_EDATE. It shows it reached its peak of PEAK_VAL which was recorded at PEAK_DATE and recorded lowest sales of MINVAL at MINDATE. The average historical sales during this period was AVG_SALES. The year wise mean for years HIST_START_YEAR to HIST_END_YEAR are YEALRY_AVG and the yearly trend is HIST_TREND.
+The Finalized planner forecast predicts the future sales for period PFS_YEAR to PFE_YEAR, it predicts the peak sales of PMAX_SALES on PMAX_DATE and minimum sales recording PMIN_SALES on PMIN_DATE. The finalized planner forecast predicts an average sales of FP_AVG for this period. For Finalized planner forecast the year wise mean for years FP_START_YEAR to FP_END_YEAR is FPF_YEARLY_AVG and the yearly trend for year for the same period is FPS_TREND.
+The corrected forecast for this period predicts the maximum sales of CFS_MAX at CFS_MAX_DATE and lowest sales recording CFS_MIN on CFS_MIN_DATE. The corrected forecast predicts an average sales of CF_AVG for this period.
+The Corrected forecast year wise mean is CF_YEARLY_AVG and the yearly trend for this period is CF_TREND.
+In the similar way, Optimized forecast predicts the maximum sales of OFS_MAX on OFS_MAX_DATE and lowest sales recording OFS_MIN at OFS_MIN_DATE, the Optimized forecast for this period predicts an average sales of OF_AVG.
+The Optimized forecast year wise mean for this period is OF_YEARLY_AVG and the yearly trend for year OF_START_YEAR to OP_END_YEAR is OF_TREND end of summary.
+
+
+start of summary The line graph depicts historical and forecasted sales data for the product PROD_ID at LOC_ID. The historical data spans from SALES_HISTORY_SDATE to SALES_HISTORY_EDATE. The year wise mean for the historical data is YEALRY_AVG and the yearly trend for the same period is HIST_TREND.
+The Finalized planner forecast predicts for the period PFS_YEAR to PFE_YEAR. It predicts highest sales of PMAX_SALES on PMAX_DATE and lowest sales of PMIN_SALES on PMIN_DATE. It shows year wise average as FPF_YEARLY_AVG and yearly trend as FPS_TREND for the same period. 
+The corrected forecast for this period predicts the peak sales of CFS_MAX at CFS_MAX_DATE and minimum sales recording CFS_MIN on CFS_MIN_DATE. For the Corrected forecast year wise mean for years CF_START_YEAR to CF_END_YEAR is CF_YEARLY_AVG and the yearly trend is CF_TREND. The corrected forecast predicts an average sales of CF_AVG for the same period.
+Similarly for Optimized forecast, maximum sales are predicted on OFS_MAX_DATE and minimum sales on OFS_MIN_DATE. 
+The year wise average of Optimized forecast for years OF_START_YEAR to OP_END_YEAR is OF_YEARLY_AVG and the yearly trend is OF_TREND. It predicts an average sales of OF_AVG end of summary.
+
+
+start of summary The graph represents historical and forecasted sales data for the product PROD_ID at LOC_ID. The historical data spans from SALES_HISTORY_SDATE to SALES_HISTORY_EDATE. The year wise mean for the historical data is YEALRY_AVG and the yearly trend for the same period is HIST_TREND.
+The Finalized planner forecast predicts for the period PFS_YEAR to PFE_YEAR. It predicts highest sales of PMAX_SALES on PMAX_DATE and lowest sales of PMIN_SALES on PMIN_DATE. It shows year wise average as FPF_YEARLY_AVG and yearly trend as FPS_TREND for the same period. 
+The corrected forecast for this period predicts the peak sales of CFS_MAX at CFS_MAX_DATE and minimum sales recording CFS_MIN on CFS_MIN_DATE. For the Corrected forecast year wise mean for years CF_START_YEAR to CF_END_YEAR is CF_YEARLY_AVG and the yearly trend is CF_TREND. The corrected forecast predicts an average sales of CF_AVG for the same period.
+Similarly for Optimized forecast, maximum sales are predicted on OFS_MAX_DATE and minimum sales on OFS_MIN_DATE. 
+The year wise average of Optimized forecast is OF_YEARLY_AVG and the yearly trend is OF_TREND. It predicts an average sales of OF_AVG end of summary.
